@@ -1,4 +1,4 @@
 # Clash_of_Code
-  
-  
-    - Let's have fun and practise!
+
+The repo includes various tasks/chanllenges to practice data structure and algorithm in python.
+ Let's have fun and practise!
