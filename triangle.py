@@ -6,5 +6,8 @@ def draw_traingle():
     **
     ***
     '''
-    # your code should live hear
+    for i in range(1, 4):
+        print('*' * i)
+
+draw_traingle()
 
